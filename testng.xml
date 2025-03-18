@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ParallelTestSuite">
+    <test name="TestA">
+        <classes>
+            <class name="com.test.AllScenarios_EG_TC" />
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="23" passed="23" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-18T10:03:04 IST" name="Default suite" finished-at="2025-03-18T10:26:14 IST" duration-ms="1390225">
+    <groups>
+    </groups>
+    <test started-at="2025-03-18T10:03:04 IST" name="Default test" finished-at="2025-03-18T10:26:14 IST" duration-ms="1390225">
+      <class name="com.test.AllScenarios_EG_TC">
+        <test-method is-config="true" signature="reference()[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:03:03 IST" name="reference" finished-at="2025-03-18T10:03:04 IST" duration-ms="1100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reference -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:03:05 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:03:05 IST" duration-ms="33" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=LD_TS_001_TC_011_CreateLead_MapCampaign_Select_Call_Disposition}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:03:05 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:03:05 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TC_CE_014_015_016_017_Sales_Lead_Create_Status_Convert_Actions}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:03:05 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:03:05 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TC_CE_018_019_Sales_Lead_Edit_Reject_Filter_AdvanceSearch}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:03:05 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:03:05 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TC_CE_026_027_028_Sales_Quotes_CreateNewOpportunityFromLead_QuotesFromOpportunity_Actions}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:03:05 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:03:05 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TC_CE_029_030_Sales_Quotes_QuotesFilter_AdvanceSearch_TerminatePolicy}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:03:05 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:11:45 IST" duration-ms="520148" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=CA_TS_001_TC_001_002_003_004_Carrier_Create_Edit_validate_Grid_Contact_Collabration}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:11:45 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="868845" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=Yes, TestScenario=CA_TS_003_005_TC_001_002_004_Existing_Carrier_Policy_Validations_Apply_Filter_Criteria}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TC_CE_031_032_033_Sales_Policy_Create_Terminate_Actions}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TC_CE_034_035_Sales_Policy_PolicyFilter_Export_AdvanceSearch}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TC_CE_004_Marketing_List}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=MS_TS_002_TC_001_To_007Custom_List_Template}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TC_CE_005_SegmentedList}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TC_CE_006_Marketing_Template}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=MS_TS_007_TC_001_To_015_018_019_022_023_Email_Campaign}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=MS_TS_007_TC_016_ScheduleLater_EmailCampaign}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TC_CE_008_Marketing_CallCampaign}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TC_CE_009_Marketing_SMSCampaigns}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TS_SMS_Campaign_ScheduleLater}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TC_CE_059_060_061_ServiceRequest_Activity_Actions}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TC_CE_062_063_064_065_ServiceFilter_AdvanceSearch_Export_ClosingRequest}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TC_CE_076_Report_Live}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TC_CE_077_Report_Schedule}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method signature="RUNALL(java.util.Map,org.testng.ITestContext)[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="RUNALL" data-provider="TestData" finished-at="2025-03-18T10:26:14 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Run=No, TestScenario=TC_CE_079_Report_Pivot}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@6b3871d6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RUNALL -->
+        <test-method is-config="true" signature="sharingReport()[pri:0, instance:com.test.AllScenarios_EG_TC@61d6015a]" started-at="2025-03-18T10:26:14 IST" name="sharingReport" finished-at="2025-03-18T10:26:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sharingReport -->
+      </class> <!-- com.test.AllScenarios_EG_TC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,6 @@
+[INFO ] 2025-03-18 10:03:05.859 [main] Log - *** Running test method CA_TS_001_TC_001_002_003_004_Carrier_Create_Edit_validate_Grid_Contact_Collabration...
+[INFO ] 2025-03-18 10:03:50.464 [main] Log - Login successful !
+[INFO ] 2025-03-18 10:11:45.820 [main] Log - *** Test Suite CA_TS_001_TC_001_002_003_004_Carrier_Create_Edit_validate_Grid_Contact_Collabration ending ***
+[INFO ] 2025-03-18 10:11:45.827 [main] Log - *** Running test method CA_TS_003_005_TC_001_002_004_Existing_Carrier_Policy_Validations_Apply_Filter_Criteria...
+[INFO ] 2025-03-18 10:12:33.225 [main] Log - Login successful !
+[INFO ] 2025-03-18 10:26:14.669 [main] Log - *** Test Suite CA_TS_003_005_TC_001_002_004_Existing_Carrier_Policy_Validations_Apply_Filter_Criteria ending ***
